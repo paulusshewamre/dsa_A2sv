@@ -26,3 +26,15 @@ Python
 ⚠️ Note
 
 These solutions are for learning and reference purposes only.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_A2sv/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_A2sv/tree/master/1920-build-array-from-permutation) |
+<!---LeetCode Topics End-->
