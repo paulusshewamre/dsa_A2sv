@@ -18,13 +18,10 @@ HackerRank/
 
 Each folder contains clean, efficient, and well-structured solutions.
 
-🛠 Languages
-
-C++
+🛠 Language
 
 Python
 
-Java
 
 ⚠️ Note
 
