@@ -1,10 +1,9 @@
 username = input()
 
-unique = len(set(username))
+uniqueSize = len(set(username))
 
-if unique % 2 != 0:
-    print("IGNORE HIM!")
-else:
+if uniqueSize % 2 == 0:
     print("CHAT WITH HER!")
-
+else:
+    print("IGNORE HIM!")
 
