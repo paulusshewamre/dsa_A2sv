@@ -1,0 +1,18 @@
+from collections import Counter
+t = int(input())
+
+for _ in range(t):
+    s = input()
+    res = set()
+    i = 0
+    
+    while i < len(s):
+        j = i
+        while j < len(s) and s[j] == s[i]:
+            j += 1
+        if (j-i) % 2 ==1:
+            res.add(s[i])
+        
+        i = j
+
+    print("".join(sorted(res)))
